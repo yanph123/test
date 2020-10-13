@@ -2,8 +2,3 @@ seureka:
   client:
     service-url:
       defaultZone: http://127.0.0.1:8761/eureka/
-spring:
-    boot:
-        admin:
-            client:
-                url: http://localhost:9090
